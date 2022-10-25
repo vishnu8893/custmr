@@ -1,0 +1,29 @@
+.main{
+    background-color: black;
+    
+}
+
+.form label{
+    color: yellow;
+}
+
+.form input{
+    width: 250px;
+    background-color: rgb(135, 135, 95);
+}
+
+.form p {
+    
+    margin-top: 10px;
+    color: yellow;
+}
+
+
+
+.form{
+    margin-left: 600px;
+    padding-top: 200px;
+    height: 713px;
+   
+}
+

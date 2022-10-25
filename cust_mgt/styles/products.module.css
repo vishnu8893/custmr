@@ -1,0 +1,89 @@
+.products{
+    width: 80%;
+    height: 745px;
+    float:right;
+    margin-left: 20%;
+    background-color:black 
+}
+
+.search{
+    margin-top: 30px;
+    margin-bottom: 30px;
+    /* background-color: beige; */
+    padding-top: 10px;
+}
+
+.search_input{
+    width: 500px;
+    margin-left: 30px;
+    /* margin-top: 10px    ; */
+    height: 40px;
+    font-size: 18px;
+    border-radius: 10px;
+    
+    
+}
+
+.div_button{
+    /* background-color: blue; */
+    width: fit-content;
+    margin-left: 520px;
+    margin-top: -42px;
+}
+
+.search_button{
+    height: 42px;
+    margin-top: 2px;
+    margin-left: 10px;
+    width: 60px;
+    border-radius: 10px;
+    
+}
+
+.cards{
+    padding: 10px;
+    /* background-color: aquamarine; */
+}
+
+.fullcard{
+    border: solid 1px;
+    background-color: rgb(30, 35, 57);
+    display: flex;
+    width: 100%;
+    align-items: center;
+}
+
+.image{
+    padding-bottom:-30px ;
+    margin-bottom: -5.62px;
+}
+
+.desc{
+    padding-left: 20px;
+    color: white;
+    margin-left: 90px;
+    /* background-color: rgb(65, 230, 230); */
+    width: 500px;
+    
+}
+
+.desc h4{
+    margin-top: 50px;
+}
+
+.buy{
+    margin-left: 130px;
+}
+
+.buybutton{
+    background-color:black;
+    width: 110px;
+    height: 45px;
+    color: white;
+    font-weight: bolder;
+    border-color: white;
+}
+
+
+
+

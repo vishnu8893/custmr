@@ -1,0 +1,66 @@
+/* html,
+body {
+  padding: 0;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, Segoe UI, Roboto, Oxygen,
+    Ubuntu, Cantarell, Fira Sans, Droid Sans, Helvetica Neue, sans-serif;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@media (prefers-color-scheme: dark) {
+  html {
+    color-scheme: dark;
+  }
+  body {
+    color: white;
+    background: black;
+  }
+} */
+
+
+#vish{
+  margin-top: 50px;
+  font-size: 17px;
+  font-weight: 200;
+  
+  
+}
+
+
+@media screen and (min-width:481px) and (max-width:768px){
+
+  #vish{
+    font-size: 14px;
+     
+  }
+
+
+}
+
+@media screen and (max-width:480px){
+  #vish{
+    font-size: 11px;
+    
+    
+  }
+
+}
+
+
+@media screen and (min-width:769px) and (max-width:1024px){
+  #vish{
+    font-size: 13px;
+    margin-left: -6px;
+
+    
+  }
+  
+}
